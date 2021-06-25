@@ -1,0 +1,1544 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Royal Shop\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-16 09:55+0000\n"
+"PO-Revision-Date: 2021-04-16 09:56+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.7.1\n"
+"X-Domain: royal-shop"
+
+#: customizer/section/layout/header/loader.php:39
+msgid "(You can also use GIF image.)"
+msgstr ""
+
+#: 404.php:23
+msgid "404"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:222
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/woocommerce/woocommerce-ajax.php:26
+#, php-format
+msgid "<span class=\"count-item\">%d </span>"
+msgid_plural "<span class=\"count-item\">%d</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce/woo-function.php:30 inc/woocommerce/woo-function.php:79
+#, php-format
+msgid "<span class=\"count-item\">%d</span>"
+msgid_plural "<span class=\"count-item\">%d</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: customizer/register-panels-and-sections.php:299
+msgid "Above Header"
+msgstr ""
+
+#: functions.php:181
+msgid "Above Header First Widget"
+msgstr ""
+
+#: functions.php:190
+msgid "Above Header Second Widget"
+msgstr ""
+
+#: functions.php:199
+msgid "Above Header Third Widget"
+msgstr ""
+
+#: inc/header-function.php:1178
+msgid "Account"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:507 
+#: lib/theme-option/class-royal-shop-admin-settings.php:617
+msgid "Activate Now"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:152
+msgid "Activating Importer Plugin "
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:208 
+#: customizer/register-panels-and-sections.php:444
+msgid "Ad Banner"
+msgstr ""
+
+#: inc/admin-function.php:365 inc/admin-function.php:373 
+#: inc/admin-function.php:379 inc/admin-function.php:387 
+#: inc/admin-function.php:393 inc/admin-function.php:399 
+#: inc/admin-function.php:408 inc/admin-function.php:414 
+#: inc/admin-function.php:420 inc/admin-function.php:426 
+#: inc/admin-function.php:459 inc/admin-function.php:467 
+#: inc/admin-function.php:473 inc/admin-function.php:481 
+#: inc/admin-function.php:487 inc/admin-function.php:493 
+#: inc/admin-function.php:501 inc/admin-function.php:507 
+#: inc/admin-function.php:513 inc/admin-function.php:519 
+#: inc/admin-function.php:555 inc/admin-function.php:563 
+#: inc/admin-function.php:569 inc/admin-function.php:577 
+#: inc/admin-function.php:583 inc/admin-function.php:589 
+#: inc/admin-function.php:597 inc/admin-function.php:603 
+#: inc/admin-function.php:609 inc/admin-function.php:615 
+#: inc/admin-function.php:647 inc/admin-function.php:655 
+#: inc/admin-function.php:661 inc/admin-function.php:669 
+#: inc/admin-function.php:675 inc/admin-function.php:681 
+#: inc/admin-function.php:689 inc/admin-function.php:695 
+#: inc/admin-function.php:701 inc/admin-function.php:707 
+#: inc/admin-function.php:738 inc/admin-function.php:746 
+#: inc/admin-function.php:752 inc/admin-function.php:760 
+#: inc/admin-function.php:766 inc/admin-function.php:772 
+#: inc/header-function.php:99 inc/header-function.php:160 
+#: inc/header-function.php:222 inc/footer-function.php:68 
+#: inc/footer-function.php:78 inc/footer-function.php:83 
+#: inc/footer-function.php:94 inc/footer-function.php:99 
+#: inc/footer-function.php:104 inc/footer-function.php:118 
+#: inc/footer-function.php:123 inc/footer-function.php:128 
+#: inc/footer-function.php:137 inc/footer-function.php:152 
+#: inc/footer-function.php:157 inc/footer-function.php:162 
+#: inc/footer-function.php:176 inc/footer-function.php:181 
+#: inc/footer-function.php:186 inc/footer-function.php:198 
+#: inc/footer-function.php:203 inc/footer-function.php:211 
+#: inc/footer-function.php:216 inc/footer-function.php:288 
+#: inc/footer-function.php:321 inc/footer-function.php:354 
+#: inc/footer-function.php:388 inc/footer-function.php:422 
+#: inc/footer-function.php:456
+msgid "Add Widget"
+msgstr ""
+
+#: functions.php:211
+msgid "Add widgets here to appear in main header."
+msgstr ""
+
+#: functions.php:220 functions.php:229 functions.php:238 functions.php:247 
+#: functions.php:256 functions.php:265
+msgid "Add widgets here to appear in top footer."
+msgstr ""
+
+#: functions.php:183 functions.php:192 functions.php:201
+msgid "Add widgets here to appear in top header."
+msgstr ""
+
+#: functions.php:165
+msgid "Add widgets here to appear in your primary sidebar."
+msgstr ""
+
+#: functions.php:174
+msgid "Add widgets here to appear in your secondary sidebar."
+msgstr ""
+
+#: inc/woocommerce/woo-core.php:92
+msgid "Add widgets here to appear in your WooCommerce Sidebar."
+msgstr ""
+
+#: inc/header-function.php:69 inc/header-function.php:129 
+#: inc/header-function.php:191 inc/footer-function.php:273 
+#: inc/footer-function.php:307 inc/footer-function.php:340 
+#: inc/footer-function.php:407 inc/footer-function.php:441 
+#: customizer/section/layout/footer/bottom-footer.php:146 
+#: customizer/section/layout/footer/bottom-footer.php:230 
+#: customizer/section/layout/footer/above-footer.php:60 
+#: customizer/section/layout/footer/above-footer.php:146 
+#: customizer/section/layout/footer/above-footer.php:229 
+#: customizer/section/layout/header/above-header.php:75 
+#: customizer/section/layout/header/above-header.php:187 
+#: customizer/section/layout/header/above-header.php:300
+msgid "Add your content here"
+msgstr ""
+
+#: inc/header-function.php:933
+msgid "All Category"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:223
+msgid "Archives"
+msgstr ""
+
+#: inc/header-function.php:92 inc/header-function.php:152 
+#: inc/header-function.php:214
+msgid "Assign Above header menu"
+msgstr ""
+
+#: inc/footer-function.php:281 inc/footer-function.php:314 
+#: inc/footer-function.php:347 inc/footer-function.php:380 
+#: inc/footer-function.php:414 inc/footer-function.php:448
+msgid "Assign footer menu"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:97
+msgid "Back To Top"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:29
+msgid "Background"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:260
+msgid "Background Attachment"
+msgstr ""
+
+#: customizer/section-ordering.php:89 
+#: customizer/section/layout/header/loader.php:23
+msgid "Background Color"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:259
+msgid "Background Position"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:257
+msgid "Background Repeat"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:258
+msgid "Background Size"
+msgstr ""
+
+#: customizer/section/woo/product.php:14
+msgid "Background Type"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:527
+msgid "Banner Tab Section"
+msgstr ""
+
+#: inc/admin-function.php:821
+msgid "Blog"
+msgstr ""
+
+#: customizer/section/layout/blog/blog.php:14
+msgid "Blog Post Content"
+msgstr ""
+
+#: customizer/section/layout/footer/bottom-footer.php:355 
+#: customizer/section/layout/header/above-header.php:445
+msgid "Border Color"
+msgstr ""
+
+#: customizer/section-ordering.php:27 customizer/section-ordering.php:45
+msgid "Both Sidebar"
+msgstr ""
+
+#: customizer/section/layout/footer/above-footer.php:331 
+#: customizer/section/layout/header/above-header.php:422
+msgid "Bottom Border"
+msgstr ""
+
+#: customizer/section/layout/footer/above-footer.php:381
+msgid "Bottom Border Color"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:215 
+#: customizer/register-panels-and-sections.php:460
+msgid "Brands"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:220
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: customizer/section/layout/header/above-header.php:69 
+#: customizer/section/layout/header/above-header.php:142 
+#: customizer/section/layout/header/above-header.php:181 
+#: customizer/section/layout/header/above-header.php:254 
+#: customizer/section/layout/header/above-header.php:293 
+#: customizer/section/layout/header/above-header.php:366
+msgid "Call To"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:201 
+#: customizer/register-panels-and-sections.php:452
+msgid "Call To Action"
+msgstr ""
+
+#: customizer/section/layout/header/above-header.php:160 
+#: customizer/section/layout/header/above-header.php:272 
+#: customizer/section/layout/header/above-header.php:384
+msgid "Call To Number"
+msgstr ""
+
+#: customizer/section/layout/header/above-header.php:148 
+#: customizer/section/layout/header/above-header.php:260 
+#: customizer/section/layout/header/above-header.php:372
+msgid "Call To Text"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:561
+msgid "Cart Page"
+msgstr ""
+
+#: sidebar-primary.php:23 inc/header-function.php:269 
+#: inc/header-function.php:334 inc/header-function.php:397 
+#: inc/header-function.php:1204
+msgid "Categories"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:341
+msgid "Category"
+msgstr ""
+
+#: customizer/section/layout/header/main-header.php:48
+msgid "center"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:296
+msgid "Center Bottom"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:295
+msgid "Center Center"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:294
+msgid "Center Top"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:237
+msgid "Change Image"
+msgstr ""
+
+#: customizer/section/layout/header/main-header.php:131
+msgid "Check to disable account icon in mobile device"
+msgstr ""
+
+#: customizer/section/layout/header/main-header.php:143
+msgid "Check to disable cart icon in mobile device"
+msgstr ""
+
+#: customizer/section/layout/header/main-header.php:119
+msgid "Check to disable wishlist icon in mobile device"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:242
+msgid "Choose Image"
+msgstr ""
+
+#: inc/woocommerce/woo-function.php:49
+msgid "close"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:282
+msgid "Color & Background Settings"
+msgstr ""
+
+#: customizer/section/layout/footer/bottom-footer.php:46 
+#: customizer/section/layout/footer/above-footer.php:47 
+#: customizer/section/layout/header/above-header.php:60
+msgid "Column 1"
+msgstr ""
+
+#: customizer/section/layout/footer/bottom-footer.php:132 
+#: customizer/section/layout/footer/above-footer.php:133 
+#: customizer/section/layout/header/above-header.php:172
+msgid "Column 2"
+msgstr ""
+
+#: customizer/section/layout/footer/bottom-footer.php:216 
+#: customizer/section/layout/footer/above-footer.php:216 
+#: customizer/section/layout/header/above-header.php:284
+msgid "Column 3"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:285
+msgid "Contain"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:538
+msgid "Content Color"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:35
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:120
+msgid "Copyright"
+msgstr ""
+
+#: customizer/section/layout/footer/bottom-footer.php:59
+msgid "Copyright | Royal Shop | Developed by ThemeHunk"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:284
+msgid "Cover"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:374
+msgid "Customer Support"
+msgstr ""
+
+#: customizer/extend-customizer/class-royal-shop-wp-customize-section.php:52
+msgid "Customizing"
+msgstr ""
+
+#: customizer/extend-customizer/class-royal-shop-wp-customize-section.php:50
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:735 lib/breadcrumbs/breadcrumbs.php:1159
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:239 
+#: customizer/background/class-royal-shop-background-image-control.php:283
+msgid "Default"
+msgstr ""
+
+#: customizer/section/layout/header/above-header.php:15
+msgid "Disable in mobile"
+msgstr ""
+
+#: customizer/section/woo/shop.php:42
+msgid "Disable Sidebar"
+msgstr ""
+
+#: customizer/section/woo/single-product.php:118
+msgid "Display Related product"
+msgstr ""
+
+#: customizer/section/layout/header/set-identity.php:40
+msgid "Display Site Title"
+msgstr ""
+
+#: customizer/section/layout/header/set-identity.php:55
+msgid "Display Tagline"
+msgstr ""
+
+#: customizer/section/woo/single-product.php:38
+msgid "Display up sell product"
+msgstr ""
+
+#: customizer/custom-customizer.php:489
+msgid "Doc"
+msgstr ""
+
+#: customizer/section/layout/social-icon/social-icon.php:117
+msgid "Dribble URL"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:686
+msgid "Easy to use, Fully Customizable, Unique options"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:29
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: customizer/section/layout/header/main-header.php:107
+msgid "Effect One"
+msgstr ""
+
+#: customizer/section/layout/header/main-header.php:108
+msgid "Effect Two (PRO)"
+msgstr ""
+
+#: customizer/section-ordering.php:74
+msgid "Enable"
+msgstr ""
+
+#: customizer/section/layout/header/main-header.php:76
+msgid "Enable Header Shadow"
+msgstr ""
+
+#: customizer/section/layout/header/loader.php:8
+msgid "Enable Loader"
+msgstr ""
+
+#: customizer/section/woo/product.php:32
+msgid "Enable Quick View."
+msgstr ""
+
+#: customizer/section/layout/blog/blog.php:19
+msgid "Excerpt Content"
+msgstr ""
+
+#: customizer/section/layout/blog/blog.php:34
+msgid "Excerpt Length"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:69
+msgid "Exclude Category"
+msgstr ""
+
+#: customizer/section/layout/social-icon/social-icon.php:19
+msgid "Facebook URL"
+msgstr ""
+
+#: customizer/section/woo/product.php:20
+msgid "Fade Swap (PRO)"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:22 
+#: customizer/section-ordering.php:63 customizer/section-ordering.php:120 
+#: customizer/section/color/global-color.php:107 
+#: customizer/section/woo/cart.php:80 customizer/section/woo/product.php:59 
+#: customizer/section/woo/single-product.php:184 
+#: customizer/section/woo/shop.php:58 
+#: customizer/section/layout/footer/widget-footer.php:81 
+#: customizer/section/layout/footer/bottom-footer.php:373 
+#: customizer/section/layout/footer/above-footer.php:413 
+#: customizer/section/layout/social-icon/social-icon.php:134 
+#: customizer/section/layout/blog/blog.php:91 
+#: customizer/section/layout/header/loader.php:55 
+#: customizer/section/layout/header/main-header.php:170 
+#: customizer/section/layout/header/set-identity.php:99 
+#: customizer/section/layout/header/above-header.php:461
+msgid "Feel difficulty, Explore our"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:160 
+#: customizer/register-panels-and-sections.php:420
+msgid "Filter Product Slider"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:229 
+#: customizer/register-panels-and-sections.php:486
+msgid "First Blank Section"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:299
+msgid "Fixed"
+msgstr ""
+
+#: customizer/section-ordering.php:10
+msgid "Fixed Sidebar"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:83 
+#: customizer/register-panels-and-sections.php:369
+msgid "Footer"
+msgstr ""
+
+#: functions.php:245
+msgid "Footer Below First Widget"
+msgstr ""
+
+#: functions.php:254
+msgid "Footer Below Second Widget"
+msgstr ""
+
+#: functions.php:263
+msgid "Footer Below Third Widget"
+msgstr ""
+
+#: inc/admin-function.php:41
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:218
+msgid "Footer Top First Widget"
+msgstr ""
+
+#: functions.php:227
+msgid "Footer Top Second Widget"
+msgstr ""
+
+#: functions.php:236
+msgid "Footer Top Third Widget"
+msgstr ""
+
+#: functions.php:273
+#, php-format
+msgid "Footer Widget Area %d"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:250 
+#: customizer/register-panels-and-sections.php:510
+msgid "Fourth Blank Section"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:389
+msgid "Frontpage Sections"
+msgstr ""
+
+#: customizer/section/layout/blog/blog.php:18
+msgid "Full Content"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:410
+msgid "Get More Options with Royal Shop!"
+msgstr ""
+
+#. %s theme name
+#: lib/theme-option/theme-option-function.php:76 
+#: lib/theme-option/theme-option-function.php:79
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: customizer/section/layout/footer/bottom-footer.php:99 
+#: customizer/section/layout/footer/bottom-footer.php:185 
+#: customizer/section/layout/footer/bottom-footer.php:286 
+#: customizer/section/layout/footer/above-footer.php:100 
+#: customizer/section/layout/footer/above-footer.php:185 
+#: customizer/section/layout/footer/above-footer.php:285 
+#: customizer/section/layout/header/above-header.php:115 
+#: customizer/section/layout/header/above-header.php:210 
+#: customizer/section/layout/header/above-header.php:340
+msgid "Go To Menu"
+msgstr ""
+
+#: customizer/section/layout/footer/bottom-footer.php:116 
+#: customizer/section/layout/footer/bottom-footer.php:202 
+#: customizer/section/layout/footer/bottom-footer.php:252 
+#: customizer/section/layout/footer/above-footer.php:117 
+#: customizer/section/layout/footer/above-footer.php:202 
+#: customizer/section/layout/footer/above-footer.php:251 
+#: customizer/section/layout/header/above-header.php:132 
+#: customizer/section/layout/header/above-header.php:244 
+#: customizer/section/layout/header/above-header.php:323
+msgid "Go To Social Media"
+msgstr ""
+
+#: customizer/section/layout/footer/widget-footer.php:64 
+#: customizer/section/layout/footer/bottom-footer.php:82 
+#: customizer/section/layout/footer/bottom-footer.php:168 
+#: customizer/section/layout/footer/bottom-footer.php:269 
+#: customizer/section/layout/footer/above-footer.php:83 
+#: customizer/section/layout/footer/above-footer.php:168 
+#: customizer/section/layout/footer/above-footer.php:268 
+#: customizer/section/layout/header/above-header.php:98 
+#: customizer/section/layout/header/above-header.php:227 
+#: customizer/section/layout/header/above-header.php:356
+msgid "Go To Widget"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:433
+msgid "Go with Royal Shop Pro"
+msgstr ""
+
+#: inc/woocommerce/woo-core.php:475
+msgid "Grid View"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:45 
+#: customizer/register-panels-and-sections.php:292
+msgid "Header"
+msgstr ""
+
+#: inc/admin-function.php:38
+msgid "Header Above Menu"
+msgstr ""
+
+#: customizer/section/layout/header/main-header.php:14
+msgid "Header Layout"
+msgstr ""
+
+#: customizer/section/layout/footer/bottom-footer.php:306 
+#: customizer/section/layout/footer/above-footer.php:305 
+#: customizer/section/layout/header/above-header.php:400
+msgid "Height"
+msgstr ""
+
+#: inc/woocommerce/woo-function.php:318
+msgid "Hello , "
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:188 
+#: customizer/register-panels-and-sections.php:476
+msgid "Highlighted Product Filter"
+msgstr ""
+
+#: inc/header-function.php:1164 inc/header-function.php:1182 
+#: lib/breadcrumbs/breadcrumbs.php:221
+msgid "Home"
+msgstr ""
+
+#: customizer/section-ordering.php:23
+msgid "Home Page"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:149
+msgid "HomePage Sections"
+msgstr ""
+
+#. Name of the template
+msgid "Homepage Template"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:717
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wpzita.com/product/royal-shop/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.themehunk.com"
+msgstr ""
+
+#: customizer/section-ordering.php:103
+msgid "Icon Color"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:257
+msgid "Import Demo Site"
+msgstr ""
+
+#: customizer/section/woo/shop.php:18 
+#: customizer/section/layout/blog/blog.php:76
+msgid "Infinite Scroll (PRO)"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:579
+msgid "Inner Page Template "
+msgstr ""
+
+#: customizer/section-ordering.php:41
+msgid "Inner Pages"
+msgstr ""
+
+#: customizer/section/layout/social-icon/social-icon.php:69
+msgid "Instagram URL"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:266
+#, php-format
+msgid ""
+"Install and Activate recommended plugins given above and Import the whole "
+"demo data of %1$s in just one click. You can further customize the whole "
+"site."
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:485 
+#: lib/theme-option/class-royal-shop-admin-settings.php:595
+msgid "Install Now"
+msgstr ""
+
+#: 404.php:28
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. %1$s: royal shop Theme name.
+#: lib/theme-option/class-royal-shop-admin-settings.php:336
+msgid "Join Community"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:346
+msgid ""
+"Join the community of friendly ThemeHunk users. Get connected, share opinion,"
+" ask questions and help each other !"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:352
+msgid "Join us on Facebook"
+msgstr ""
+
+#: inc/header-function.php:924
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: customizer/section/layout/footer/widget-footer.php:16 
+#: customizer/section/layout/footer/bottom-footer.php:16 
+#: customizer/section/layout/footer/above-footer.php:17 
+#: customizer/section/layout/header/above-header.php:32
+msgid "Layout"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:40
+msgid "Layout Settings"
+msgstr ""
+
+#: functions.php:115
+msgid "Lead Form Builder"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:299
+msgid "Learn More"
+msgstr ""
+
+#: customizer/section/layout/header/main-header.php:47 
+#: customizer/section/layout/header/main-header.php:65
+msgid "Left"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:290
+msgid "Left Bottom"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:289
+msgid "Left Center"
+msgstr ""
+
+#: customizer/section-ordering.php:30 customizer/section-ordering.php:48
+msgid "Left Sidebar"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:288
+msgid "Left Top"
+msgstr ""
+
+#: customizer/section/color/global-color.php:29
+msgid "Link Color"
+msgstr ""
+
+#: customizer/section/color/global-color.php:44
+msgid "Link Hover Color"
+msgstr ""
+
+#: customizer/section/layout/social-icon/social-icon.php:32
+msgid "LinkedIn URL"
+msgstr ""
+
+#: inc/woocommerce/woo-core.php:477
+msgid "List View"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:181 
+#: customizer/register-panels-and-sections.php:428
+msgid "ListView Slider"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:194 
+#: customizer/register-panels-and-sections.php:436
+msgid "ListView With Filter"
+msgstr ""
+
+#: inc/woocommerce/woo-core.php:545 inc/woocommerce/woo-core.php:547
+msgid "Load More"
+msgstr ""
+
+#: customizer/section/woo/shop.php:17 
+#: customizer/section/layout/blog/blog.php:75
+msgid "Load More (PRO)"
+msgstr ""
+
+#: customizer/section/woo/shop.php:31
+msgid "Load More Text"
+msgstr ""
+
+#: inc/header-function.php:995 inc/header-function.php:1003
+msgid "LOGIN / REGISTER"
+msgstr ""
+
+#: inc/woocommerce/woo-function.php:320
+msgid "Login / Signup"
+msgstr ""
+
+#: customizer/section/layout/header/set-identity.php:75
+msgid "Logo Width"
+msgstr ""
+
+#: inc/admin-function.php:39
+msgid "Main"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:112
+msgid "Main Footer"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:61 
+#: customizer/register-panels-and-sections.php:307
+msgid "Main Header"
+msgstr ""
+
+#: functions.php:209
+msgid "Main Header Widget"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:153 
+#: customizer/register-panels-and-sections.php:396
+msgid "Main Slider"
+msgstr ""
+
+#: functions.php:134
+msgid "Megamenu plugin from Themehunk."
+msgstr ""
+
+#: inc/header-function.php:284 inc/header-function.php:351 
+#: inc/header-function.php:412 inc/header-function.php:504 
+#: inc/header-function.php:606 inc/header-function.php:691 
+#: inc/header-function.php:769 inc/header-function.php:1175 
+#: inc/header-function.php:1201 
+#: customizer/section/layout/footer/bottom-footer.php:52 
+#: customizer/section/layout/footer/bottom-footer.php:138 
+#: customizer/section/layout/footer/bottom-footer.php:222 
+#: customizer/section/layout/footer/above-footer.php:53 
+#: customizer/section/layout/footer/above-footer.php:139 
+#: customizer/section/layout/footer/above-footer.php:222 
+#: customizer/section/layout/header/above-header.php:66 
+#: customizer/section/layout/header/above-header.php:178 
+#: customizer/section/layout/header/above-header.php:290
+msgid "Menu"
+msgstr ""
+
+#: customizer/section/layout/header/main-header.php:43
+msgid "Menu Alignment"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: lib/breadcrumbs/breadcrumbs.php:229
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:683
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:700
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:324
+msgid "Mobile"
+msgstr ""
+
+#: customizer/section/layout/header/main-header.php:61
+msgid "Mobile Menu"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:734 lib/breadcrumbs/breadcrumbs.php:790 
+#: lib/breadcrumbs/breadcrumbs.php:1155
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/header-function.php:992 inc/header-function.php:1000
+msgid "MY ACCOUNT"
+msgstr ""
+
+#: inc/woocommerce/woo-function.php:318 inc/woocommerce/woo-function.php:320
+msgid "My account"
+msgstr ""
+
+#: inc/header-function.php:958 inc/header-function.php:963
+msgid "My Favourite"
+msgstr ""
+
+#: inc/woocommerce/woo-function.php:366 inc/woocommerce/woo-function.php:441
+msgid "No categories"
+msgstr ""
+
+#: customizer/section/layout/blog/blog.php:20
+msgid "No Content"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:240
+msgid "No image selected"
+msgstr ""
+
+#: inc/woocommerce/woo-core.php:242
+msgid "No more products to show."
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:737
+msgid "No plugin specified"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:277
+msgid "No Repeat"
+msgstr ""
+
+#: customizer/section-ordering.php:28 customizer/section-ordering.php:46
+msgid "No Sidebar"
+msgstr ""
+
+#: customizer/section/woo/product.php:18 
+#: customizer/section/layout/footer/bottom-footer.php:50 
+#: customizer/section/layout/footer/bottom-footer.php:136 
+#: customizer/section/layout/footer/bottom-footer.php:220 
+#: customizer/section/layout/footer/above-footer.php:51 
+#: customizer/section/layout/footer/above-footer.php:137 
+#: customizer/section/layout/footer/above-footer.php:220 
+#: customizer/section/layout/header/above-header.php:64 
+#: customizer/section/layout/header/above-header.php:176 
+#: customizer/section/layout/header/above-header.php:288
+msgid "None"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: customizer/section/woo/cart.php:33 
+#: customizer/section/woo/single-product.php:54 
+#: customizer/section/woo/single-product.php:136
+msgid "Number Of Column To Show"
+msgstr ""
+
+#: customizer/section/woo/cart.php:55 
+#: customizer/section/woo/single-product.php:76 
+#: customizer/section/woo/single-product.php:160
+msgid "Number Of Product To Show"
+msgstr ""
+
+#: customizer/section/woo/shop.php:16 
+#: customizer/section/layout/blog/blog.php:74
+msgid "Numbered"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:332
+msgid "Off Canvas Sidebar"
+msgstr ""
+
+#: customizer/section/layout/header/main-header.php:90
+msgid "On / Off Sticky Header"
+msgstr ""
+
+#: functions.php:125
+msgid "One Click Demo Import"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:380
+msgid ""
+"Our Products are completely User-Friendly but Still you feel any Difficulty "
+"while Using it. Feel Free to Contact us on our Support Forum. Our Excellent "
+"Team will be happy to assist you with any theme related questions."
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:305
+#, php-format
+msgid ""
+"Our WordPress Theme is well Documented, you can go with our Documentation "
+"and learn to customize %1$s."
+msgstr ""
+
+#. %s is the page number.
+#: lib/breadcrumbs/breadcrumbs.php:227
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: template-parts/content-single.php:46 template-parts/content-page.php:17
+msgid "Pages:"
+msgstr ""
+
+#: customizer/section/layout/social-icon/social-icon.php:44
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/woocommerce/quick-view/quick-view-product-image.php:52
+msgid "Placeholder"
+msgstr ""
+
+#: inc/header-function.php:924
+msgctxt "placeholder"
+msgid "Search for Product"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:479 
+#: lib/theme-option/class-royal-shop-admin-settings.php:589
+msgid "Plugin Activated"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:767
+msgid "Plugin Successfully Activated"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:76
+msgid "Post Page"
+msgstr ""
+
+#: customizer/section/layout/blog/blog.php:70
+msgid "Post Pagination"
+msgstr ""
+
+#: customizer/section/layout/header/loader.php:38
+msgid "Pre Loader Image"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:131
+msgid "Preloader"
+msgstr ""
+
+#: functions.php:163 customizer/register-panels-and-sections.php:351
+msgid "Primary Sidebar"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:174 
+#: customizer/register-panels-and-sections.php:404
+msgid "Product Categories Section"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:167 
+#: customizer/register-panels-and-sections.php:412
+msgid "Product Slider"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:547
+msgid "Product Style"
+msgstr ""
+
+#: inc/woocommerce/woo-core.php:323
+msgid "Quick view"
+msgstr ""
+
+#: inc/blog-function.php:88
+msgid "Read More"
+msgstr ""
+
+#: customizer/section/layout/blog/blog.php:54
+msgid "Read More Text"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: lib/theme-option/view-general.php:17
+msgid "Recommend Plugins"
+msgstr ""
+
+#: customizer/section/woo/single-product.php:101
+msgid "Related Product"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:238
+msgid "Remove"
+msgstr ""
+
+#: customizer/section/layout/header/set-identity.php:27
+msgid "Retina Logo"
+msgstr ""
+
+#: inc/woocommerce/woo-function.php:56
+msgid "Return to shop"
+msgstr ""
+
+#: customizer/section/layout/header/main-header.php:49 
+#: customizer/section/layout/header/main-header.php:66
+msgid "Right"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:293
+msgid "Right Bottom"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:292
+msgid "Right Center"
+msgstr ""
+
+#: customizer/section-ordering.php:29 customizer/section-ordering.php:47
+msgid "Right Sidebar"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:291
+msgid "Right Top"
+msgstr ""
+
+#. Name of the theme
+#: lib/theme-option/view-general.php:15 
+#: lib/theme-option/class-royal-shop-admin-settings.php:76
+msgid "Royal Shop"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Royal Shop is All in one eCommerce WordPress Theme.  Its beautiful and clear "
+"style has been designed to showcase your products and increase your sales. "
+"You can use Royal Shop for electronics &amp; computers, Restaurant &amp; "
+"Grocery, marketplace, toys &amp; kids, tools &amp; parts, beauty, health, "
+"clothing &amp; fashion, watch &amp; jewelry, home &amp; furniture, sports "
+"etc.  It comes with useful prebuilt homepages that are installable in just "
+"one click. Fully responsive theme, Best for any devices such as mobile, "
+"desktop, laptop, iPad. It also has various header and footer layouts so you "
+"can showcase your menus and other elements. Some cool sections are  - Main "
+"Slider Layouts, Filter Product Slider, Product Slider, Products Categories "
+"slider, List View Slider,  Banner section with 2 layouts, Brands and "
+"Services section. It also offers Ajax search, Fixed sidebar for Homepage "
+"&amp; Inner page, Preloader, Social icons,  Basic Color &amp; background "
+"settings, Multiple widget support, WooCommerce products settings and much "
+"more.  This theme supports ultimate WooCommerce plugin which will help you "
+"power up online visibility, sales and profits."
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:75
+msgid "Royal Shop Options"
+msgstr ""
+
+#: customizer/section/woo/product.php:44
+msgid "Sale Badge Text"
+msgstr ""
+
+#: customizer/section/woo/product.php:39
+msgid "Sale!"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:300
+msgid "Scroll"
+msgstr ""
+
+#: searchform.php:13 customizer/section/layout/footer/bottom-footer.php:139 
+#: customizer/section/layout/footer/bottom-footer.php:223
+msgid "Search"
+msgstr ""
+
+#. %s is the search query. The HTML entities are opening and closing curly quotes.
+#: lib/breadcrumbs/breadcrumbs.php:225
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/admin-function.php:814
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:12
+msgid "search.."
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:236 
+#: customizer/register-panels-and-sections.php:494
+msgid "Second Blank Section"
+msgstr ""
+
+#: functions.php:172 customizer/register-panels-and-sections.php:360
+msgid "Secondary Sidebar"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:272
+msgid "Section Ordering"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:154 
+#: lib/theme-option/class-royal-shop-admin-settings.php:277
+msgid "See Library"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:236 
+#: customizer/background/class-royal-shop-background-image-control.php:241
+msgid "Select Image"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:222 
+#: customizer/register-panels-and-sections.php:468
+msgid "Services"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:568
+msgid "Shop Page"
+msgstr ""
+
+#: customizer/section/woo/shop.php:12
+msgid "Shop Page Pagination"
+msgstr ""
+
+#: customizer/section/layout/social-icon/social-icon.php:8
+msgid "Show Original Color"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:90
+msgid "Sidebar"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:554
+msgid "Single Product"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:286
+msgid "Site Colors"
+msgstr ""
+
+#: header.php:32
+msgid "Skip to content"
+msgstr ""
+
+#: customizer/section/woo/product.php:21
+msgid "Slide Swap (PRO)"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:139
+msgid "Social Icon"
+msgstr ""
+
+#: customizer/section/layout/footer/bottom-footer.php:54 
+#: customizer/section/layout/footer/bottom-footer.php:141 
+#: customizer/section/layout/footer/bottom-footer.php:225 
+#: customizer/section/layout/footer/above-footer.php:55 
+#: customizer/section/layout/footer/above-footer.php:141 
+#: customizer/section/layout/footer/above-footer.php:224 
+#: customizer/section/layout/header/above-header.php:68 
+#: customizer/section/layout/header/above-header.php:180 
+#: customizer/section/layout/header/above-header.php:292
+msgid "Social Media"
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/admin-function.php:40
+msgid "Sticky"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:315
+msgid "Sticky Header"
+msgstr ""
+
+#: customizer/section/layout/header/main-header.php:103
+msgid "Sticky Header Effect"
+msgstr ""
+
+#: customizer/section/layout/social-icon/social-icon.php:105
+msgid "Stumbleupon URL"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:388
+msgid "Submit a Ticket"
+msgstr ""
+
+#: inc/header-function.php:938
+msgctxt "submit button"
+msgid "Submit"
+msgstr ""
+
+#: customizer/section/layout/footer/bottom-footer.php:51 
+#: customizer/section/layout/footer/bottom-footer.php:66 
+#: customizer/section/layout/footer/bottom-footer.php:137 
+#: customizer/section/layout/footer/bottom-footer.php:152 
+#: customizer/section/layout/footer/bottom-footer.php:221 
+#: customizer/section/layout/footer/bottom-footer.php:236 
+#: customizer/section/layout/footer/above-footer.php:52 
+#: customizer/section/layout/footer/above-footer.php:67 
+#: customizer/section/layout/footer/above-footer.php:138 
+#: customizer/section/layout/footer/above-footer.php:152 
+#: customizer/section/layout/footer/above-footer.php:221 
+#: customizer/section/layout/footer/above-footer.php:235 
+#: customizer/section/layout/header/above-header.php:65 
+#: customizer/section/layout/header/above-header.php:82 
+#: customizer/section/layout/header/above-header.php:177 
+#: customizer/section/layout/header/above-header.php:194 
+#: customizer/section/layout/header/above-header.php:289 
+#: customizer/section/layout/header/above-header.php:307
+msgid "Text"
+msgstr ""
+
+#: customizer/section/color/global-color.php:60
+msgid "Text Color"
+msgstr ""
+
+#. %1$s: theme name, %2$s theme version
+#: lib/theme-option/theme-option-function.php:52 
+#: lib/theme-option/theme-option-function.php:55
+#, php-format
+msgid "Thank you for Installing %1$s - Version %2$s"
+msgstr ""
+
+#: customizer/section/color/global-color.php:14
+msgid "Theme Color"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeHunk"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:243 
+#: customizer/register-panels-and-sections.php:502
+msgid "Third Blank Section"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:278
+msgid "Tile"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:279
+msgid "Tile Horizontally"
+msgstr ""
+
+#: customizer/background/class-royal-shop-background-image-control.php:280
+msgid "Tile Vertically"
+msgstr ""
+
+#: customizer/section/color/global-color.php:75
+msgid "Title Color"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:257 
+#: customizer/register-panels-and-sections.php:518
+msgid "Top Blank Section"
+msgstr ""
+
+#: customizer/section/layout/footer/bottom-footer.php:332 
+#: customizer/section/layout/footer/above-footer.php:358
+msgid "Top Border"
+msgstr ""
+
+#: customizer/section/layout/footer/above-footer.php:396
+msgid "Top Border Color"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:104
+msgid "Top Footer"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:53
+msgid "Top Header"
+msgstr ""
+
+#: customizer/section/layout/social-icon/social-icon.php:81
+msgid "Tumblr URL"
+msgstr ""
+
+#: customizer/section/layout/social-icon/social-icon.php:57
+msgid "Twitter URL"
+msgstr ""
+
+#: customizer/section/woo/single-product.php:22
+msgid "Up Sell Product"
+msgstr ""
+
+#: lib/theme-option/view-general.php:18
+msgid "Useful Plugins"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:264
+msgid "Vertical Banner Tabbed Carousel"
+msgstr ""
+
+#: inc/woocommerce/woo-function.php:28 inc/woocommerce/woo-function.php:77
+msgid "View your shopping cart"
+msgstr ""
+
+#. %1$s: theme name, %2$s link
+#: lib/theme-option/theme-option-function.php:62 
+#: lib/theme-option/theme-option-function.php:66
+#, php-format
+msgid "Visit %1$s options page to take full advantage of theme."
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:312
+msgid "Visit Us"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: lib/breadcrumbs/breadcrumbs.php:231
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:763
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:117
+msgid "Welcome"
+msgstr ""
+
+#: customizer/section/layout/footer/bottom-footer.php:53 
+#: customizer/section/layout/footer/bottom-footer.php:140 
+#: customizer/section/layout/footer/bottom-footer.php:224 
+#: customizer/section/layout/footer/above-footer.php:54 
+#: customizer/section/layout/footer/above-footer.php:140 
+#: customizer/section/layout/footer/above-footer.php:223 
+#: customizer/section/layout/header/above-header.php:67 
+#: customizer/section/layout/header/above-header.php:179 
+#: customizer/section/layout/header/above-header.php:291
+msgid "Widget"
+msgstr ""
+
+#: inc/header-function.php:958 inc/header-function.php:964 
+#: inc/header-function.php:1166 inc/header-function.php:1169
+msgid "Wishlist"
+msgstr ""
+
+#: functions.php:100 customizer/register-panels-and-sections.php:379
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/woocommerce/woo-core.php:90
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: customizer/register-panels-and-sections.php:10
+msgid "WordPress Default"
+msgstr ""
+
+#: functions.php:120
+msgid "WP Popup Builder – Popup Forms & Newsletter"
+msgstr ""
+
+#: functions.php:110
+msgid "WPC Smart Compare for WooCommerce"
+msgstr ""
+
+#: functions.php:105
+msgid "WPC Smart Wishlist for WooCommerce"
+msgstr ""
+
+#: template-parts/author-bio.php:18
+msgid "Written by"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:733 lib/breadcrumbs/breadcrumbs.php:762 
+#: lib/breadcrumbs/breadcrumbs.php:789 lib/breadcrumbs/breadcrumbs.php:816 
+#: lib/breadcrumbs/breadcrumbs.php:1151
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: lib/theme-option/class-royal-shop-admin-settings.php:426
+msgid ""
+"You'll get more advanced features and functionalities with Royal Shop pro. "
+"Switch to pro version and enjoy creating online store."
+msgstr ""
+
+#: customizer/section/layout/social-icon/social-icon.php:93
+msgid "Youtube URL"
+msgstr ""
+
+#: functions.php:95
+msgid "Z Companion"
+msgstr ""
+
+#: customizer/section/woo/product.php:19
+msgid "Zoom"
+msgstr ""

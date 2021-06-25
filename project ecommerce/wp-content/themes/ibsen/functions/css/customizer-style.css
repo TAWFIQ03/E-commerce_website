@@ -1,0 +1,74 @@
+.customize-control select{
+	width: 98%;
+}
+
+#customize-theme-controls .control-section.control-panel-nav_menus{
+	margin-top: 25px;
+	border-top: 1px solid #ddd;
+}
+
+#customize-theme-controls #accordion-section-custom_css.control-section{
+	margin-top: 25px;
+	border-top: 1px solid #ddd;
+}
+
+#customize-theme-controls .accordion-section-content{
+	background: #FFF;
+}
+
+h3.ibsen-accordion-section-title{
+	color: #fff;
+	font-size: 125%;
+	padding: 10px 10px 11px 14px;
+	line-height: 21px;
+	background: #0073aa;
+	margin: 0 -12px 0;
+}
+
+h5.ibsen-accordion-section-title{
+	font-size: 110%;
+	padding: 10px 10px 11px 14px;
+	line-height: 21px;
+	background: #f2f3f5;
+	margin: 0 -12px 0;
+}
+
+.ibsen-accordion-section-paragraph{
+	padding: 0px 10px 11px 14px;
+	line-height: 16px;
+	margin: 0 -12px 0;
+}
+
+[id*="customize-control-fs_"].customize-control,
+[id*="customize-control-ft_"].customize-control{
+	width: 46%;
+	margin-right: 3%;
+}
+
+[id*="customize-control-fw_"].customize-control,
+[id*="customize-control-fl_"].customize-control{
+	width: 46%;
+	margin-left: 3%;
+	clear: none;
+}
+
+/*Theme Info*/
+.ibsen-info{
+	margin-top: 10px;
+}
+
+.ibsen-info a{
+	background: #0073aa;
+	padding: 5px 10px;
+	color: #FFF;
+	text-align: center;
+	display: block;
+	margin-top: 5px;
+	line-height: 1.2;
+	box-shadow: none;
+	opacity: 1;
+}
+
+.ibsen-info a:hover{
+	opacity: 0.8;
+}

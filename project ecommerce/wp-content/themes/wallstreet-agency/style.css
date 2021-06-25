@@ -1,0 +1,189 @@
+/*
+Theme Name: Wallstreet Agency
+Author: webriti
+Author URI: https://www.webriti.com
+Description: The Wallstreet Agency theme is the child theme of Wallstreet WordPress Theme. A Business theme, perfect for creating corporate/business websites. In this theme, you can get the different color, header, service, and blog sections from the parent theme. The theme is developed for all devices such as mobiles, tablets, and laptops, etc.
+Template: wallstreet
+Version: 0.1
+Requires at least: 4.5
+Tested up to: 5.7
+Requires PHP: 5.4
+Tags: full-width-template, threaded-comments, one-column, two-columns, custom-menu, sticky-post, translation-ready, featured-images, blog, footer-widgets
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: wallstreet-agency
+*/
+
+/*========== Header =========*/
+.navbar5 .navbar-header {
+    text-align: center;
+    border-bottom: 1px solid #5f5656;
+}
+.navbar5 .navbar-header .wallstreet_title_head, .navbar5 .navbar-header .site-description {
+    color: #FFFFFF;
+}
+.navbar5 .navbar-header .navbar-brand {float: none; line-height: 0; padding: 0;}
+.navbar5 .navbar-header .custom-logo-link img {margin: 15px auto 0;}
+
+.navbar.navbar5 {
+    border: none;
+    background-color: rgba(0, 0, 0, 1);
+    padding: 0 0;
+    position: relative;
+    min-height: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+@media only screen and (max-width: 1100px) and (min-width: 200px) {
+    .navbar5 .navbar-toggle {
+        float: none;
+        padding: 8px 8px;
+        margin: 20px auto;
+        border: 1px solid transparent;
+        border-radius: 2px;
+    }
+}
+.navbar .navbar-nav > li > a {
+    padding: 15px 19px !important;
+}
+.navbar-header.index3 { text-align: center; float: none; padding: 17px 15px 17px 0px;}
+.navbar-header.index3 .navbar-brand {
+    display: inline-block;
+    float: none;
+    margin-right: 0;
+    padding: 7px 0px 0px;
+}
+.index3 .logo-link-url { display: block;clear: both;  padding:10px 0px 5px }
+.index3 .site-branding-text .site-title{margin:0;}
+.index3 .site-branding-text .site-description { margin-bottom: 0;}
+.index3 .site-branding-text .site-title .navbar-brand{padding: 12px 0px 10px;}
+@media (max-width: 1100px) and (min-width: 200px) {
+  .navbar .navbar-toggle {
+      display: block;
+  }
+}
+/*========== Service =========*/
+.service5 .service-box {
+    text-align: center;
+    margin-bottom: 25px;
+}
+.service5 .service-box img {
+    border-radius: 100%;
+    margin: 0 auto 16px;
+    -webkit-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.service5 .service-area {
+    padding: 0;
+    border: none;
+    margin: 0 0 30px;
+}
+.service5 .service-area:hover {
+    background: none;
+    border: none;
+}
+.service5 .service-effect, .service5 .stop-service-effect{
+    padding: 30px 15px 10px;
+    border-radius: 30px;
+    transition: 0.3s;
+    margin-bottom: 30px;
+}
+.service-section .section_heading_title { margin: 0; }
+.service5.service-section {
+    padding: 65px 0 26px;
+}
+
+/*========== Homepage Blog =========*/
+.home-blog-section .blog-list-view .comment {
+    float: left;
+    padding: 4px 0px 0 15px;
+}
+.home-blog-section .blog-list-view .home-blog-post-detail {
+    border-bottom: none;
+    margin: 0 0 5px;
+    padding: 0 0 19px;
+}
+.blog-list-view .blog-post-img img {
+    max-width: 100%;
+    height: 100%;
+    width:auto;
+}
+.blog-list-view .blog-post-detail {
+    width:63%;
+    text-align: right;
+    float: right;
+    margin: 5px 0 0px;
+    padding: 5px 0 0;
+    border-top:0px;
+}
+.blog-list-view .blog-btn-col {
+    display: inline-block;
+    width:37%;
+}
+.blog-btn-col a.blog-btn { color: #ffffff; }
+.blog-list-view .blog-post-date {
+    width:auto;
+    float:none;
+    height:unset;
+    display: inline-flex;
+}
+.blog-list-view .blog-post-date span.date {
+    padding: 3px 10px 3px;
+    font-size: 16px;
+}
+.blog-list-view .blog-post-date span.comment {
+    padding: 9px 9px;
+}
+.blog-list-view .blog-post-title-wrapper h2, .blog-list-view .blog-post-title-wrapper-full h2 {
+  font-size:30px;
+  font-weight:600;
+}
+@media (min-width: 991px) {
+  .blog-section-left.blog-list-view .blog-post-img {
+    max-width: 100%;
+    padding-top: 0px;
+    max-height: 100%;
+  }
+  .blog-list-view .blog-post-img img {height:320px;}
+}
+@media (min-width:600px) and (max-width: 768px)  {
+  .blog-list-view .blog-post-detail {
+    width: 50%;
+    margin: 15px 0 0px;
+  }
+}
+@media (max-width:600px) {
+  .blog-list-view .blog-post-detail {
+    width: 50%;
+    margin: 0px 0 0px;
+  }
+}
+.blog-post-date span.date {
+    line-height: 35px;
+}
+.blog-post-date span.comment > a > i {
+    font-size: 15px;
+    line-height: 20px;
+    margin-right: 3px;
+}
+.blog-section-left:last-child { border-bottom: none; }
+@media (min-width: 991px) {
+    .blog-section-left.blog-list-view .blog-post-img {
+        width: 370px;
+        -webkit-box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) !important;
+        box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19) !important;
+    }
+    .right .blog-post-img { float: right; }
+    .blog-section-left.blog-list-view.right .blog-post-title {
+        width: auto;
+        padding: 20px 30px 20px 0;
+    }
+    .blog-section-left.blog-list-view .blog-post-title {
+        width: auto;
+        padding: 20px 30px 20px;
+    }
+    .blog-section-left.blog-list-view .blog-post-title.remove-img {
+        width: auto;
+        padding: 20px 0px 20px;
+    }
+}

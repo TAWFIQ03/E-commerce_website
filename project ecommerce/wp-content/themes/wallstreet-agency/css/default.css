@@ -1,0 +1,218 @@
+/*========== Header =========*/
+.navbar.navbar5 .navbar-nav > .active > a, .navbar.navbar5 .navbar-nav > .active > a:hover, .navbar.navbar5 .navbar-nav > .active > a:focus {
+    background-color: transparent;
+    color: #FF8A00;
+}
+.navbar.navbar5 .navbar-nav > .active > a,
+.navbar.navbar5 .navbar-nav > .active > a:hover,
+.navbar.navbar5 .navbar-nav > .active > a:focus {
+    background-color: transparent;
+    color: #FF8A00;
+}
+.navbar.navbar5 .navbar-nav > .open > a,
+.navbar.navbar5 .navbar-nav > .open > a:hover,
+.navbar.navbar5 .navbar-nav > .open > a:focus {
+    background-color: transparent;
+    color: #FF8A00;
+}
+.navbar.navbar5 .navbar-nav > li > a:hover,
+.navbar.navbar5 .navbar-nav > li > a:focus {
+    background-color: transparent;
+    color: #FF8A00;
+}
+.dropdown-menu > li > a {
+    color: #ffffff;
+    border-bottom: 1px solid rgba(255, 138, 0, 0.5);
+}
+.dropdown-menu {
+    background-color: rgba(0, 0, 0, 0.8);
+    border: 0 none;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    color: #FF8A00;
+    background-color: transparent;
+}
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+    background-color: transparent;
+    border-color: rgba(255, 138, 0, 0.5);
+}
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:hover, .dropdown-menu > .active > a:focus {
+    background-color: transparent;
+    color: #FF8A00;
+}
+.navbar5 .navbar-header .wallstreet_title_head:hover { color: #FF8A00; }
+@media (max-width: 767px) {
+.navbar-inverse .navbar-nav .open .dropdown-menu > .active > a, .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:focus {
+    background-color: transparent;
+}
+}
+/*========== Breadcrumbs =========*/
+.page-breadcrumbs {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #FF8A00;
+}
+.breadcrumbs > li a {
+  color: #ffffff;
+}
+.breadcrumbs > li >.active {
+  color: #FF8A00;
+}
+/*========== Slider =========*/
+.flex-slider-center h2, .flex-slider-center p {
+    color: #FFFFFF;
+    text-shadow: 0 1px 2px rgb(0 0 0 / 60%);
+}
+.flex-slider-center h1 {
+    color: #FFFFFF;
+    border-top: 2px solid #ffffff;
+    border-bottom: 2px solid #ffffff;
+    text-shadow: 0 1px 2px rgb(0 0 0 / 60%);
+}
+/*========== Homepage sections =========*/
+.section_heading_title h1, .section_heading_title p {
+    color: #ffffff;
+}
+.pagetitle-separator-border { background-color: #FF8A00; }
+.header-top-area, .pagetitle-separator-box { background: none repeat scroll 0 0 #FF8A00; }
+
+/*========== Slider =========*/
+.homepage_mycarousel { box-shadow: 0 7px 10px -10px #000; }
+
+/*========== Service =========*/
+.service5 .service-box img {
+    box-shadow: #FF8A00 0px 0px 0px 1px;
+    width: 80px;
+    height: 80px;
+}
+.service5 .service-effect, .service5 .stop-service-effect {
+    background: #373941;
+}
+.service5 .service-effect:hover h2 > a, .service5 .stop-service-effect:hover h2 > a{
+    color: #ffffff;
+}
+.service5 .service-effect:hover p, .service5 .stop-service-effect:hover p {
+    color: #ffffff;
+    transition: all 0.4s ease 0s;
+}
+.service5 .service-effect:hover, .service5 .stop-service-effect:hover {
+    background-color: #FF8A00;
+}
+.service-area h2 > a, .service-area p { color: #f5f5f5; }
+
+/*========== Portfolio =========*/
+.portfolio-section { background-color: #373941; }
+.home-portfolio-showcase-overlay {background-color: #FF8A00; }
+.home-portfolio-showcase .home-portfolio-showcase-detail h4, .home-portfolio-showcase .home-portfolio-showcase-detail p { color: #ffffff; }
+
+/*========== Blog =========*/
+.blog-post-date span.date a, #blogdetail_btn, .blog-btn { background-color: #FF8A00; }
+.blog-post-date span.date a, .wp-block-latest-posts__post-date, .blog-post-title > .blog-post-title-wrapper > h2, .blog-author h6, .comment-title h3, .blog-section-right .blog-btn, .comment_box, .footer_widget_title, .tagcloud a, .blog-post-title > .blog-post-title-wrapper > h1, .blog-post-title > .blog-post-title-wrapper > h2, .blog-post-title > .blog-post-title-wrapper > h3, .blog-post-title > .blog-post-title-wrapper > h4, .blog-post-title > .blog-post-title-wrapper > h5, .blog-post-title > .blog-post-title-wrapper > h6, .blog-post-title > .blog-post-title-wrapper > dl, .blog-post-title > .blog-post-title-wrapper > dt, .blog-post-title > .blog-post-title-wrapper > ol > li { color: #ffffff; }
+.blog-post-date span.comment > i, .post.sticky ul li a, .blog-post-title-wrapper > ul > li a, .blog-post-title-wrapper > ol > li a, .blog-post-title-wrapper p a, .blog-post-title-wrapper h2 a:hover, .comment-form-section > .comment-respond > form#commentform > p.logged-in-as > a { color: #FF8A00; }
+.blog-post-title-wrapper h2 a, .blog-post-title-wrapper-full h2 a, .blog-section-right .blog-post-meta a {
+    color: #f5f5f5;
+}
+a.blog-btn { text-shadow: none; }
+.blog-post-title-wrapper p, .blog-post-title-wrapper > ul > li, .comment-detail p { color: #e5e5e5; }
+.sticky { background-color: #ad8352 !important; }
+.blog-section-right {color: #f5f5f5; }
+.blog-section-right a, .comment-date a, .comment-detail p a, .reply a, table td > a, .blog-post-title-wrapper p a, .blog-post-title-wrapper dl a {color: #FF8A00; }
+.blog-detail-section, .blog-author, .comment-form-section, .blog-section-right, .comment-section { background-color: #3c3f49; }
+.blog-form-control-textarea {
+    background-color: transparent;
+    border: 1px solid #7b7f8c;
+}
+.blog-blockquote blockquote, .blog-post-title-wrapper > blockquote, .blog-post-title-wrapper-full > blockquote {
+    border-left: 3px solid #FF8A00;
+}
+.comment-img { border: 2px solid #b3b8c6; }
+.reply a { border: 1px solid #8a8c9a; }
+
+/*========== Pagination =========*/
+.blog-pagination a { background-color: #3c3f49; color: #ffffff; }
+.blog-pagination a:hover, .blog-pagination a:focus { background-color: #FF8A00; }
+
+/*========== widgets =========*/
+.sidebar-section { background-color: #3c3f49; }
+.search_widget_input {
+    border: 1px solid #E0E4E6;
+    background-color: #FFFFFF;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 8%) inset;
+}
+.search_btn { background-color: #FF8A00; color: #ffffff; }
+.sidebar-widget > ul > li > a, .sidebar-widget-title h2, .sidebar-widget > ul > li > a:before, .footer_widget_column > div.textwidget, .footer_widget_column > ul > li > a:before, .footer_widget_column .tagcloud a, .footer-social-icons li > a > i { color: #ffffff; }
+.recentcomments .comment-author-link a, .textwidget a, .footer_widget_column > ul > li > a:hover, .sidebar-widget > ul > li > a:hover, .footer_widget_column a { color: #FF8A00; }
+.sidebar-widget > ul > li { color: #e5e5e5; }
+.tagcloud a {
+    background-color: transparent;
+    border: 1px solid #8d919f;
+}
+.tagcloud a:hover {
+    background-color: #8d919f;
+    border: 1px solid #8d919f;
+}
+.post-date { background-color: #FF8A00; }
+.footer_widget_column > ul > li,  .footer_widget_column > ul > li > a { color: #e5e5e5; }
+.head-contact-social li:hover i { color: #FF8A00; }
+
+/*========== Footer =========*/
+.footer_section { background-color: #373941; }
+.footer-copyright p a { color: #FF8A00; }
+.footer_section p, .footer-copyright p { color: #ffffff; }
+.footer-social-icons { border-bottom: 1px solid #575963; text-align: center; }
+.footer-social-area { box-shadow: 0 7px 2px -6px #2a2c33; }
+.footer-copyright { border-top: 1px solid #575963; }
+
+/*========== Scroll to Top =========*/
+.page_scrollup {
+    background-color: rgb(255, 138, 0);
+}
+
+/*========== Homepage Blog =========*/
+.blog-section-left {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 30px 0 30px;
+    border-bottom: 1px solid #e0e0e0;
+}
+.blog-post-date span.comment a { color: #2a2c33; }
+.blog-post-date { background-color: #FFFFFF; }
+.blog-post-date span.date {
+    background-color: #FF8A00;
+    color: #ffffff;
+}
+.blog-post-date span.comment > a > i { color: #FF8A00; }
+.blog-post-date span.comment { color: #2a2c33; }
+.home-blog-content { background-color: #2a2c33; }
+
+/*========== WooCommerce =========*/
+.woocommerce-page .page-title, .woocommerce-result-count, .products h2, .woocommerce-Price-amount, .woocommerce div.product .product_title, .sku_wrapper, .woocommerce-page .posted_in, .woocommerce-page .posted_in a, .woocommerce-Tabs-panel h2, .woocommerce-Tabs-panel, .woocommerce-review-link, .woocommerce .quantity .qty{
+    color: #ffffff;
+}
+.woocommerce .quantity .qty { border: 1px solid #7b7f8c; }
+.woocommerce p { color: #e5e5e5; }
+.woocommerce-checkout .woocommerce-privacy-policy-text p { color: #2a2c33; }
+.woocommerce-ordering select {
+    color: #e5e5e5;
+    border: 1px solid #7b7f8c;
+}
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+    border: 1px solid #3c3f49;
+    background: #2a2c33;
+}
+.woocommerce ul.products li.product .onsale {
+    border: 2px solid #FF8A00;
+    color: #FF8A00;
+}
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce button.button.alt { background-color: #FF8A00; }
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce nav.woocommerce-pagination ul li a, .woocommerce nav.woocommerce-pagination ul li span { background-color: #3c3f49; color: #fff;}
+.woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover { background: #FF8A00; color: #ffffff; }
+.woocommerce-MyAccount-navigation-link a, .woocommerce-checkout h3, .cart_totals h2 { color: #FF8A00; }
+.woocommerce-info { border-top-color: #FF8A00; }
+.woocommerce a.button { background-color: #FF8A00 !important; }
+
+/*========== Error 404 page =========*/
+.error_404, .error_404 #blogdetail_btn{ color: #fff; }
+
+/*========== Contact Form =========*/
+.wpcf7-submit { background-color: #FF8A00; }

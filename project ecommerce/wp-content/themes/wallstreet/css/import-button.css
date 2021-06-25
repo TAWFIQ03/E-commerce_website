@@ -1,0 +1,6 @@
+#accordion-panel-post_type_slug_settings .accordion-section-title:after, #accordion-panel-wallstreet_layout_setting .accordion-section-title:after, #accordion-section-theme_style .accordion-section-title:after{content: "\f160";}
+
+#accordion-section-colors{
+	display: none !important;
+}
+

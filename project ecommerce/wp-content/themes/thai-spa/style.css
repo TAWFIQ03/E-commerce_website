@@ -1,0 +1,550 @@
+/*
+Theme Name: Thai Spa
+Theme URI: https://www.nayrathemes.com/thaispa-free/
+Author: Nayra Themes
+Author URI: https://www.nayrathemes.com/
+Description: Thai Spa is an elegant and modern WordPress theme for spa and wellness centers but it is also very easy to customize it for other business like hairdressing, ayurvedic, manicures, pedicures, makeup, mashups, nails, detox, tanning, male grooming, facials, waxing, spa and body treatments, massages or other Hair & Barber related services. View the demo of Thai Spa Pro https://www.nayrathemes.com/demo/pro/?theme=thai-spa
+Template: hantus
+Version: 1.0.15
+Tested up to: 5.7.2
+Requires PHP: 5.6
+License: GPLv3 or later
+License URI:  https://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: thai-spa
+Slug: thai-spa
+Tags: one-column, two-columns, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu,  custom-logo, featured-image-header, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, translation-ready, blog, e-commerce, portfolio, editor-style, grid-layout
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+
+/* Header */
+
+h1, h2, h3, h4, h5, h6 {
+    color: #242526;
+}
+
+.blog-post ul:not(.meta-info) li a,
+.blog-post ol:not(.meta-info) li a,
+.blog-post table a, strong a, blockquote a, code a, p a,
+span a {
+    color: #6ea81a;
+}
+
+.post-comment-area h2,
+.blog-post .post-title a:focus {
+	color: #6ea81a;
+}
+
+.header-slider .theme-slider .theme-content h1 {
+    color: #6ea81a;
+}
+
+.header-transparent .cart-icon-wrapper:hover,
+.header-transparent .cart-icon-wrapper:focus {
+    outline-color: #ffffff;
+}
+
+.header-transparent #header-top p i,
+.header-transparent #header-top .text-details i {
+    font-size: 18px;
+    vertical-align: text-bottom;
+    margin-right: 7px;
+}
+
+.header-transparent .header-social li a {
+    width: 26px;
+    height: 26px;
+    line-height: 26px;
+}
+
+.header-transparent #header-top p:after {
+    top: 0;
+    width: 1px;
+    height: 100%;
+    background: rgb(255 255 255 / 50%);
+}
+
+.header-transparent .logo a {
+    display: block;
+}
+
+.header-transparent .site-description {
+    line-height: 0.75;
+    top: 0;
+    display: inline-block;
+}
+._2Pfbi {
+    border-color: #6ea81a !important;
+}
+.header-transparent .cart-count {
+    background: #6ea81a;
+    border: 2px solid #2b2b2b;
+}
+
+.header-transparent .navbar-area.sticky-nav {
+	box-shadow: none;
+}
+
+.header-transparent .navbar-area .sb-search > .sb-icon-search,
+.header-transparent .navbar-area .cart-icon-wrapper i,
+.header-transparent .navbar-area .main-menu > ul > li > a {
+	color: #ffffff;
+}
+
+.header-transparent #breadcrumb-area {
+    background-size: cover !important;
+}
+
+@media only screen and (max-width: 991px) and (min-width: 601px) {
+	.admin-bar .navbar-wrapper div.sticky-nav.is-sticky {
+		top: 32px;
+	}
+}
+
+@media (min-width: 992px) {
+	.header-transparent .header-social li a {
+		background: rgb(0 0 0 / 30%);
+	}
+	.header-transparent #header-top,
+	.header-transparent .navbar-area.sticky-nav {
+		background: none;
+		border: none;
+	}
+	.header-transparent .sb-search:not(.sb-search-open) .sb-icon-search,
+	.header-transparent .header-info-text .info span,
+	.header-transparent #header-top .text-details a,
+	.header-transparent #header-top p {
+		color: #ffffff;
+	}
+	.header-transparent .navbar-area > .container > .row {
+		background-color: rgba(36, 37, 38, 0.7);
+	}
+	.header-transparent .navbar-area.sticky-nav.show > .container > .row {
+		background-color: #242526;
+	}
+	.header-transparent #breadcrumb-area {
+		padding-top: 215px;
+	}
+	.header-transparent div.theme-slider div.theme-content {
+		margin-top: 22px;
+	}
+}
+
+@media (max-width: 991px) {
+	.header-transparent .navbar-wrapper .sticky-nav {
+		background-color: #242526;
+	}
+}
+
+/* Thai Spa-Info */
+
+.single-info-thai-spa {
+    background-color: #f7f7f7;
+    border: 10px solid rgb(110 168 26 / 27%);
+    overflow: hidden;
+    position: relative;
+    z-index: 0;
+}
+
+.single-info-thai-spa:after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.single-info-thai-spa .strip-overlay {
+	padding: 32px 25px;
+}
+
+.strip-hover .strip-hover-wrap:before,
+.strip-hover .strip-hover-wrap:after,
+.strip-hover .strip-overlay:before,
+.strip-hover .strip-overlay:after {
+    content: '';
+    position: absolute;
+    top: 0;
+	width: 25%;
+    height: 100%;
+    background-color: #6ea81a;
+    -webkit-transform: scaleY(0);
+    transform: scaleY(0);
+    opacity: 0;
+	z-index: -1;
+	-webkit-transition: all .35s ease;
+    transition: all .35s ease;
+}
+
+.strip-hover .strip-hover-wrap:before {
+    left: 0;
+    -webkit-transition-delay: 0s;
+    transition-delay: 0s;
+}
+
+.strip-hover .strip-hover-wrap:after {
+    left: 25%;
+    -webkit-transition-delay: .105s;
+    transition-delay: .105s;
+}
+
+.strip-hover .strip-overlay:before {
+    left: 50%;
+    -webkit-transition-delay: .21s;
+    transition-delay: .21s;
+}
+
+.strip-hover .strip-overlay:after {
+    left: 75%;
+    -webkit-transition-delay: .35s;
+    transition-delay: .35s;
+}
+
+.strip-hover:hover .strip-hover-wrap:before,
+.strip-hover:hover .strip-hover-wrap:after,
+.strip-hover:hover .strip-overlay:before,
+.strip-hover:hover .strip-overlay:after,
+.strip-hover:focus-within .strip-hover-wrap:before,
+.strip-hover:focus-within .strip-hover-wrap:after,
+.strip-hover:focus-within .strip-overlay:before,
+.strip-hover:focus-within .strip-overlay:after {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    opacity: 0.7;
+}
+
+.single-info-thai-spa.strip-hover:hover .strip-hover-wrap:before,
+.single-info-thai-spa.strip-hover:hover .strip-hover-wrap:after,
+.single-info-thai-spa.strip-hover:hover .strip-overlay:before,
+.single-info-thai-spa.strip-hover:hover .strip-overlay:after,
+.single-info-thai-spa.strip-hover:focus-within .strip-hover-wrap:before,
+.single-info-thai-spa.strip-hover:focus-within .strip-hover-wrap:after,
+.single-info-thai-spa.strip-hover:focus-within .strip-overlay:before,
+.single-info-thai-spa.strip-hover:focus-within .strip-overlay:after {
+	opacity: 0.27;
+}
+
+.service-thai-spa.strip-hover .strip-hover-wrap:before,
+.service-thai-spa.strip-hover .strip-hover-wrap:after,
+.service-thai-spa.strip-hover .strip-overlay:before,
+.service-thai-spa.strip-hover .strip-overlay:after {
+	z-index: 1;
+}
+
+.service-thai-spa .inner-overlay {
+	position: relative;
+	z-index: 2;
+}
+
+.service-thai-spa .strip-hover-wrap {
+	position: relative;
+	z-index: 0;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+	border-radius: 100%;
+}
+
+.service-thai-spa .strip-overlay {
+	width: 100%;
+	height: 100%;
+}
+
+.icon-info-thai-spa {
+    height: 75px;
+    width: 75px;
+    float: left;
+    display: block;
+    text-align: center;
+    margin-bottom: 0;
+    margin-right: 0;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.icon-info-thai-spa img {
+    object-fit: cover;
+    height: 100%;
+    border-radius: 100%;
+}
+
+.info-area-thai-spa {
+    margin-left: 92px;
+}
+
+.info-caption-thai-spa h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.info-caption-thai-spa .btn-info {
+    margin-top: 12px;
+    border-radius: 20px;
+}
+
+@media (max-width: 1199px) {
+	.single-info-thai-spa {
+		border-width: 8px;
+	}
+	.single-info-thai-spa .strip-overlay {
+		padding: 25px 20px;
+	}
+	.icon-info-thai-spa {
+		height: 62px;
+		width: 62px;
+	}
+	.info-area-thai-spa {
+		margin-left: 74px;
+	}
+}
+
+/* Thai Spa-Services */
+.service-thai-spa {
+    position: relative;
+    border-radius: 100%;
+    border: 7px solid rgba(255,255,255,.5);
+    box-shadow: 0 7px 21px rgb(0 0 0 / 10%);
+    z-index: 0;
+}
+
+.service-thai-spa img {
+    border-radius: 100%;
+    max-width: 100%;
+    height: 100%;
+}
+
+.service-thai-spa .inner-thai-spa {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    border-radius: 100%;
+}
+
+.inner-thai-spa .inner-text-thai-spa {
+    width: 100%;
+    text-align: center;
+    border-radius: 0 0 100% 100%;
+    position: absolute;
+    left: 0;
+    bottom: -30%;
+}
+.inner-thai-spa .inner-text-thai-spa:after {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border-radius: inherit;
+	background-color: #6ea81a;
+	opacity: 0.7;
+	z-index: -1;
+}
+.inner-thai-spa .inner-text-thai-spa {
+    background-color: rgb(110 168 26 / 70%);
+}
+
+.inner-thai-spa .inner-text-thai-spa h4 {
+    margin: 0;
+}
+
+.service-thai-spa .price-thai-spa {
+    width: 85px;
+    height: 85px;
+    padding: 12px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 100%;
+    position: absolute;
+    box-shadow: 0 7px 21px rgb(0 0 0 / 10%);
+}
+@media (min-width: 320px) {
+	.service-thai-spa {
+	    width: 254px;
+	    height: 254px;
+	    margin: 0 auto 30px;
+	}
+	.inner-thai-spa .inner-text-thai-spa {
+	    padding: 14px 12px 28px;
+	}
+	.service-thai-spa .price-thai-spa {
+	    right: -27px;
+    	bottom: -16px;
+	}
+	.inner-thai-spa .inner-text-thai-spa {
+	    bottom: -82%;
+	}
+	.inner-thai-spa .inner-text-thai-spa h4 {
+	    margin-bottom: 40%;
+	}
+}
+@media (min-width: 768px) {
+	.service-thai-spa {
+		width: 240px;
+		height: 240px;
+	    margin: 0 auto;
+	}
+	.inner-thai-spa .inner-text-thai-spa {
+	    padding: 9px 10px 17px;
+	}
+	.service-thai-spa .price-thai-spa {
+	    right: -10px;
+	    bottom: -35px;
+	}
+	.inner-thai-spa .inner-text-thai-spa {
+	    bottom: -82%;
+	}
+	.inner-thai-spa .inner-text-thai-spa h4 {
+	    margin-bottom: 40%;
+	}
+}
+@media (min-width: 992px) {
+	.service-thai-spa {
+	    width: 200px;
+	    height: 200px;
+	}
+	.inner-thai-spa .inner-text-thai-spa {
+	    padding: 25px 12px 25px;
+	}
+	.service-thai-spa .price-thai-spa {
+	    right: -27px;
+    	bottom: -16px;
+	}
+	.inner-thai-spa .inner-text-thai-spa {
+	    bottom: -82%;
+	}
+	.inner-thai-spa .inner-text-thai-spa h4 {
+	    margin-bottom: 35%;
+	}
+}
+@media (min-width: 1200px) {
+	.service-thai-spa {
+	    width: 254px;
+	    height: 254px;
+	}
+	.inner-thai-spa .inner-text-thai-spa {
+	    bottom: -70%;
+	}
+	.inner-thai-spa .inner-text-thai-spa h4 {
+	    margin-bottom: 30%;
+	}
+}
+
+.service-thai-spa .price-thai-spa h5 {
+    margin: 0;
+    color: #6ea81a;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 3.85;
+}
+
+.inner-thai-spa .inner-text-thai-spa h4,
+.inner-thai-spa .inner-text-thai-spa p {
+	color: #ffffff;
+}
+
+.inner-thai-spa .inner-text-thai-spa {
+    -webkit-transition: all 0.35s ease;
+    transition: all 0.35s ease;
+}
+
+.inner-thai-spa .inner-text-thai-spa h4 {
+	padding: 0 3px;
+    -webkit-transition: all 0.35s ease;
+    transition: all 0.35s ease;
+}
+
+.inner-thai-spa .inner-text-thai-spa p {
+    margin-bottom: 15px;
+}
+
+.service-thai-spa:hover .inner-text-thai-spa h4,
+.service-thai-spa:focus-within .inner-text-thai-spa h4 {
+	margin-bottom: 10px;
+}
+.service-thai-spa:hover .inner-text-thai-spa,
+.service-thai-spa:focus-within .inner-text-thai-spa {
+	bottom: 0;
+    height: 100%;
+}
+
+.info-thai-spa .info-wrapper {
+    margin-top: -200px;
+}
+
+.inner-thai-spa .boxed-btn {
+    border: 1px solid #ffffff;
+    padding: 8px 22px;
+}
+
+@media (max-width: 991px) {
+	.info-thai-spa {
+		padding: 50px 0 80px;
+	}
+	.info-thai-spa .info-wrapper {
+	    margin-top: 20px;
+	}
+}
+
+/* Blog */
+.blog-post a.more-link {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 7px 20px;
+    font-weight: 500;
+    color: #ffffff;
+    background-color: #242526;
+    border-radius: 20px;
+    -webkit-transition: .3s all;
+    transition: .3s all;
+}
+
+.blog-post a.more-link:hover,
+.blog-post a.more-link:focus {
+	background-color: #6ea81a;
+}
+
+.post-content {
+    position: relative;
+    z-index: 0;
+}
+
+.meta-info li.post-date:after {
+	display: none;
+}
+
+.meta-info li.post-date a {
+    color: #ffffff !important;
+    background-color: #6ea81a;
+    padding: 12px 15px 11px;
+}
+
+.meta-info li.post-date {
+    position: absolute;
+    bottom: 103%;
+}
+
+.single-product .meta-info li.post-date{
+	 bottom: 100%;
+}
+
+#footer-copyright {
+    border-top: 1px solid #e2e2e2;
+	background-color: #fbfbfb;
+}
+
+section#testimonial {
+    box-shadow: 0px 1px 4px 0px rgb(44 49 59 / 15%);
+}
+
+ul.mbl li:last-child:not(:first-child) {
+    border-left: 1px solid rgb(230 230 230 / 20%);
+}
+
+
+.shop-product h5 a:hover{
+	color:#242526;
+}

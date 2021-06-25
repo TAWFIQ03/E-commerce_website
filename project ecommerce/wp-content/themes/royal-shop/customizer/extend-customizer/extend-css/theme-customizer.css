@@ -1,0 +1,70 @@
+*{
+	box-sizing: border-box;
+}
+#customize-control-custom_logo,
+#customize-control-royal_shop_header_retina_logo,
+#customize-control-blogname,
+#customize-control-royal_shop_logo_width,
+#customize-control-blogdescription,
+#customize-control-site_icon,
+#customize-control-royal_shop_menu_alignment,
+#customize-control-royal_shop_sticky_header{
+	background: #FFF;
+	padding: 10px;
+}
+
+
+
+
+
+
+#sub-accordion-section-royal-shop-above-header li,
+#sub-accordion-section-royal-shop-main-header li,
+#sub-accordion-section-royal-shop-section-blog-group li,
+#sub-accordion-section-royal-shop-above-footer li,
+#sub-accordion-section-royal-shop-bottom-footer li,
+#sub-accordion-section-royal-shop-section-sidebar-group li,
+#sub-accordion-section-royal-shop-move-to-top li,
+#sub-accordion-section-royal-shop-section-base-typo li,
+#sub-accordion-section-royal-shop-section-title-typo li,
+#sub-accordion-section-royal-shop-section-content-typo li,
+#sub-accordion-section-royal-shop-pre-loader li,
+#sub-accordion-section-royal-shop-social-icon li,
+#sub-accordion-section-royal-shop-woo-single-product li,
+#sub-accordion-section-royal_shop_top_slider_section li,
+#sub-accordion-section-royal_shop_category_tab_section li,
+#sub-accordion-section-royal_shop_product_slide_section li,
+#sub-accordion-section-royal_shop_cat_slide_section li,
+#sub-accordion-section-royal_shop_product_slide_list li,
+#sub-accordion-section-royal_shop_product_big_feature li,
+#sub-accordion-section-royal_shop_product_cat_list li,
+#sub-accordion-section-royal_shop_ribbon li,
+#sub-accordion-section-royal_shop_banner li,
+#sub-accordion-section-royal_shop_brand li,
+#sub-accordion-section-royal_shop_5_custom_sec li,
+#sub-accordion-section-royal_shop_vt2_category_tab_section li,
+#sub-accordion-section-royal_shop_1_custom_sec li,
+#sub-accordion-section-royal_shop_2_custom_sec li,
+#sub-accordion-section-royal_shop_3_custom_sec li,
+#sub-accordion-section-royal_shop_4_custom_sec li,
+li#customize-control-royal_shop_exclde_category{
+	background: #FFF;
+	padding: 10px;
+}
+#customize-control-royal_shop_above_header_layout,
+#customize-control-royal_shop_main_header_layout,
+#customize-control-royal_shop_above_footer_layout,
+#customize-control-royal_shop_bottom_footer_layout,
+.customize-section-description-container.section-meta{
+	background: initial!important;
+	padding: 0!important;
+}
+.customize-control-checkbox-multiple li{
+	margin: 0;
+	padding: 5px!important;
+}
+.customize-control-customizer-heading{
+	background: initial!important;
+	padding: 0 10px!important;
+	margin-bottom: 7px;
+}

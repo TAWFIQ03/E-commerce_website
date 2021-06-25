@@ -1,0 +1,22 @@
+2021-06-10T09:05:16+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\Jetpack\Connection\Manager::is_site_connection() in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\jetpack\class.jetpack.php:2026
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\jetpack\class.jetpack.php(3425): Jetpack::load_modules()
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\jetpack\class.jetpack.php(3318): Jetpack::plugin_initialize()
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(292): Jetpack::plugin_activation(false)
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\wordpress\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wordpress\wp-admin\includes\plugin.php(701): do_action('activate_jetpac...', false)
+#6 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Plugins.php(403): activate_plugin('jetpack/jetpack...')
+ in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\jetpack\class.jetpack.php on line 2026
+
+2021-06-10T09:15:24+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\Jetpack\Connection\Manager::is_site_connection() in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\jetpack\class.jetpack.php:2026
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\jetpack\class.jetpack.php(3425): Jetpack::load_modules()
+#1 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\jetpack\class.jetpack.php(3318): Jetpack::plugin_initialize()
+#2 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(292): Jetpack::plugin_activation(false)
+#3 C:\xampp\htdocs\wordpress\wordpress\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\wordpress\wordpress\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\wordpress\wordpress\wp-admin\includes\plugin.php(701): do_action('activate_jetpac...', false)
+#6 C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Plugins.php(403): activate_plugin('jetpack/jetpack...')
+ in C:\xampp\htdocs\wordpress\wordpress\wp-content\plugins\jetpack\class.jetpack.php on line 2026
+
